@@ -69,6 +69,10 @@ Además, se ha solicitado la incorporación de gráficos en el reporte. La tarea
 ## 🎥 Vdeo Reporte en Crystal Report con Procedimiento Almacenado en SQL Server, VB.net
 [![Video 2](video2.png)](https://www.youtube.com/watch?v=MTe4y3F40tI&ab_channel=JuancitoPe%C3%B1aV.)
 
+Además, puedes revisar un ejemplo de procedimiento almacenado con parámetros de fecha y creación de vistas en mi canal de YouTube:
+
+- **Ejemplo de Procedimiento Almacenado:**[![Video 3](video3.png)](https://www.youtube.com/watch?v=L_ATmhTw-H0&t=2157s&ab_channel=JuancitoPe%C3%B1aV)
+- 
 ## Suscríbete y Acompáñanos 📌
 Este proyecto es parte de nuestro canal, donde la inteligencia se une a la eficiencia para potenciar el desarrollo empresarial. ¡Suscríbete y acompáñanos en este emocionante viaje de análisis inteligente de la información! 📈
 
