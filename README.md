@@ -29,17 +29,6 @@ Además, se ha solicitado la incorporación de gráficos en el reporte. La tarea
 - Permitir la generación del reporte en formato PDF.
 - Habilitar la opción de exportar a Excel u otros formatos según sea necesario.
 
-### La premisa es completar esta tarea de diseño de reporte lo más rápido posible, manteniendo la eficiencia y la calidad en el desarrollo. ¡Manos a la obra!
-
-## 🎥 Vdeo Reporte en Crystal Report con Procedimiento Almacenado en SQL Server, C#
-[![Video 1](video1.png)](https://www.youtube.com/watch?v=TkImMz_rBH8&ab_channel=JuancitoPe%C3%B1aV)
-
-## 🎥 Vdeo Reporte en Crystal Report con Procedimiento Almacenado en SQL Server, VB.net
-[![Video 2](video2.png)](https://www.youtube.com/watch?v=MTe4y3F40tI&ab_channel=JuancitoPe%C3%B1aV.)
-
-## Objetivo del Proyecto 🎯
-El objetivo principal de este proyecto es desarrollar un sistema de informes analíticos que facilite el análisis inteligente de la información empresarial. Utilizaremos herramientas de Microsoft y SAP, con énfasis en Visual Studio 2019 o 2022, C#, y la poderosa Crystal Report para lograr este propósito. 🛠️
-
 ## Funcionalidades Destacadas 🌟
 - **Diseño Parametrizado:** Desarrollaremos un reporte altamente parametrizado para permitir análisis de ventas con flexibilidad.
 - **Integración de Herramientas:** Utilizaremos el entorno de desarrollo Visual Studio 2019 o 2022, C#, y Crystal Report para la implementación eficiente.
@@ -72,17 +61,26 @@ El objetivo principal de este proyecto es desarrollar un sistema de informes ana
 5. **Contribuciones:**
    - ¡Contribuye al desarrollo! Si encuentras mejoras o correcciones, abre un problema o presenta una solicitud de extracción.
 
+### La premisa es completar esta tarea de diseño de reporte lo más rápido posible, manteniendo la eficiencia y la calidad en el desarrollo. ¡Manos a la obra!
+
+## 🎥 Vdeo Reporte en Crystal Report con Procedimiento Almacenado en SQL Server, C#
+[![Video 1](video1.png)](https://www.youtube.com/watch?v=TkImMz_rBH8&ab_channel=JuancitoPe%C3%B1aV)
+
+## 🎥 Vdeo Reporte en Crystal Report con Procedimiento Almacenado en SQL Server, VB.net
+[![Video 2](video2.png)](https://www.youtube.com/watch?v=MTe4y3F40tI&ab_channel=JuancitoPe%C3%B1aV.)
+
 ## Suscríbete y Acompáñanos 📌
 Este proyecto es parte de nuestro canal, donde la inteligencia se une a la eficiencia para potenciar el desarrollo empresarial. ¡Suscríbete y acompáñanos en este emocionante viaje de análisis inteligente de la información! 📈
 
-✔  No olvides suscribirte, compartir, darle like y dejar tus comentarios en la sección de abajo. ¡Tu apoyo es muy importante para mí  y me ayudas a seguir creando contenido. 💚
+No olvides suscribirte, compartir, darle like y dejar tus comentarios en la sección de abajo. ¡Tu apoyo es muy importante para mí y me ayudas a seguir creando contenido. 💚
 
-1-🎬 Youtube: https://www.youtube.com/@JuancitoPenaV 
-2-👨‍💼 LinkedIn: https://www.linkedin.com/in/juancitope%C3%B1a/
-3-📰 Blog: https://advisertecnology.com/
-4-📷 Instagram: https://www.instagram.com/juancito.pena.v/
-5-📑 Facebook: https://www.facebook.com/juancito.p.v
-6-🐦 Twitter: https://twitter.com/JuancitoPenaV
+1. 🎬 **Youtube:** [JuancitoPenaV](https://www.youtube.com/@JuancitoPenaV)
+2. 👨‍💼 **LinkedIn:** [Juancito Peña](https://www.linkedin.com/in/juancitope%C3%B1a/)
+3. 📰 **Blog:** [Adviser Tecnology](https://advisertecnology.com/)
+4. 📷 **Instagram:** [juancito.pena.v](https://www.instagram.com/juancito.pena.v/)
+5. 📑 **Facebook:** [Juancito P. V.](https://www.facebook.com/juancito.p.v)
+6. 🐦 **Twitter:** [JuancitoPenaV](https://twitter.com/JuancitoPenaV)
+
 
 **¡Gracias por ser parte de nuestro proyecto!** 👏
 
