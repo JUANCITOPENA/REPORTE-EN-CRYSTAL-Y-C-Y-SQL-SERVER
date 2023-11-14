@@ -2,7 +2,34 @@
 
 # Proyecto de Desarrollo Empresarial - Informes Analíticos 💼
 
-¡Bienvenidos al repositorio del Proyecto de Desarrollo Empresarial! En este emocionante proyecto, nos sumergimos en el desafiante mundo del desarrollo empresarial para diseñar un reporte parametrizado que permita realizar análisis de ventas con filtros de fecha de manera eficiente y rápida. 🚀
+¡Bienvenidos al repositorio del Proyecto de Desarrollo Empresarial! En este emocionante proyecto, nos sumergimos en el desafiante mundo del desarrollo empresarial para diseñar un reporte parametrizado que permita realizar análisis de ventas con filtros de fecha de manera eficiente y rápida. 🚀.
+
+## 🦾Tarea de Diseño de Reporte Parametrizado
+
+En la empresa donde trabajas, te han asignado la tarea de diseñar un reporte parametrizado para realizar análisis de ventas con un filtro de fecha. Este reporte debe contener los siguientes encabezados:
+
+- # de Factura
+- Fecha
+- País
+- Cliente
+- Vendedor
+- Modelo
+- Categoría
+- Cantidad
+- Precio
+- Monto Total
+- % Margen
+
+Para llevar a cabo esta tarea, se requiere el uso de un stack de herramientas de Microsoft y SAP, específicamente con el entorno de desarrollo Visual Studio 2019 o 2022, C#, y Crystal Report. Puedes descargar Crystal Report desde la página oficial de la herramienta.
+
+Además, se ha solicitado la incorporación de gráficos en el reporte. La tarea tiene como objetivo principal proporcionar un análisis rápido y eficiente de las ventas, con la posibilidad de filtrar por fecha.
+
+## Requerimientos Adicionales
+- Agregar la opción de fecha inicial y fecha final en el filtro.
+- Permitir la generación del reporte en formato PDF.
+- Habilitar la opción de exportar a Excel u otros formatos según sea necesario.
+
+### La premisa es completar esta tarea de diseño de reporte lo más rápido posible, manteniendo la eficiencia y la calidad en el desarrollo. ¡Manos a la obra!
 
 ## 🎥 Vdeo Reporte en Crystal Report con Procedimiento Almacenado en SQL Server, C#
 [![Video 1](video1.png)](https://www.youtube.com/watch?v=TkImMz_rBH8&ab_channel=JuancitoPe%C3%B1aV)
