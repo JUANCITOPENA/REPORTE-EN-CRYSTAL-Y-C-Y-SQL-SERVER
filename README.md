@@ -71,7 +71,8 @@ Además, se ha solicitado la incorporación de gráficos en el reporte. La tarea
 
 Además, puedes revisar un ejemplo de procedimiento almacenado con parámetros de fecha y creación de vistas en mi canal de YouTube:
 
-- **Ejemplo de Procedimiento Almacenado:**[![Video 3](video3.png)](https://www.youtube.com/watch?v=L_ATmhTw-H0&t=2157s&ab_channel=JuancitoPe%C3%B1aV)
+## 🎥 Vdeo  EJEMPLO DE PROCEDIMIENTO ALMACENADO CON PARAMETROS DE FECHA, Y CREACION DE VISTAS
+[![Video 3](video3.png)](https://www.youtube.com/watch?v=L_ATmhTw-H0&t=2157s&ab_channel=JuancitoPe%C3%B1aV)
 - 
 ## Suscríbete y Acompáñanos 📌
 Este proyecto es parte de nuestro canal, donde la inteligencia se une a la eficiencia para potenciar el desarrollo empresarial. ¡Suscríbete y acompáñanos en este emocionante viaje de análisis inteligente de la información! 📈
