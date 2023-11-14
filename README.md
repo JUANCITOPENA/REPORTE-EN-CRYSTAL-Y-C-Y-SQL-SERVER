@@ -4,9 +4,11 @@
 
 ¡Bienvenidos al repositorio del Proyecto de Desarrollo Empresarial! En este emocionante proyecto, nos sumergimos en el desafiante mundo del desarrollo empresarial para diseñar un reporte parametrizado que permita realizar análisis de ventas con filtros de fecha de manera eficiente y rápida. 🚀
 
-## Miniaturas de Video 🎥
+## 🎥 Vdeo Reporte en Crystal Report con Procedimiento Almacenado en SQL Server, C#
 [![Video 1](video1.png)](https://www.youtube.com/watch?v=TkImMz_rBH8&ab_channel=JuancitoPe%C3%B1aV)
-[![Video 2](video2.png)](https://www.youtube.com/watch?v=jbecZXNd8H4&ab_channel=JuancitoPe%C3%B1aV)
+
+## 🎥 Vdeo Reporte en Crystal Report con Procedimiento Almacenado en SQL Server, VB.net
+[![Video 2](video2.png)](https://www.youtube.com/watch?v=MTe4y3F40tI&ab_channel=JuancitoPe%C3%B1aV.)
 
 ## Objetivo del Proyecto 🎯
 El objetivo principal de este proyecto es desarrollar un sistema de informes analíticos que facilite el análisis inteligente de la información empresarial. Utilizaremos herramientas de Microsoft y SAP, con énfasis en Visual Studio 2019 o 2022, C#, y la poderosa Crystal Report para lograr este propósito. 🛠️
