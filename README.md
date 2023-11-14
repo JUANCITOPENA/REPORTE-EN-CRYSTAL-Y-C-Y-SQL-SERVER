@@ -8,7 +8,7 @@
 
 En la empresa donde trabajas, te han asignado la tarea de diseñar un reporte parametrizado para realizar análisis de ventas con un filtro de fecha. Este reporte debe contener los siguientes encabezados:
 
-- #_de_Factura
+- No_de_Factura
 - Fecha
 - País
 - Cliente
