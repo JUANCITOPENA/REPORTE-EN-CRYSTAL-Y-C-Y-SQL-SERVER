@@ -1191,8 +1191,6 @@ el teléfono, y la URL del modelo de vehículo.
 
 */
 
-SELECT * FROM 
-
 SELECT Vehiculos.ID, Vehiculos.Modelo, YEAR(Ventas.Fecha_Venta) as Año_Venta, Vehiculos.Precio_compra,
 Clientes.Nombre as Nombre_Cliente, Clientes.Direccion, Clientes.Telefono, 
 Ventas.Fecha_Venta, Ventas.Precio_Venta,
@@ -1728,8 +1726,38 @@ VH.Stock;
 EXEC SP_Ventas_PorFecha_v_2023_2 '2020-01-01', '2020-12-31';
 
 
+-- CREAMOS UNA VISTA CON EL REPORTE QUE NECESITAMOS:
 
+CREATE OR ALTER VIEW VW_Ventas_PorFecha_v_2023_2
+AS
+SELECT V.ID AS ID_Venta, V.Fecha_Venta, p.NOMBRE_PAIS as Pais,
+C.Nombre AS Cliente, C.Direccion AS Direccion_Cliente, C.Telefono AS Telefono_Cliente,
+E.Nombre AS Vendedor,
+CT.Nombre AS Categoria,
+VH.Modelo, VH.Precio_compra, VH.Precio_ventas,
+VH.Stock AS Stock_Inicial,
+V.Cantidad,
+(VH.Stock - SUM(V.Cantidad)) AS Stock_Actual,
+V.Total,
+(V.Cantidad * (VH.Precio_ventas - VH.Precio_compra)) AS Margen_bruto,
+((V.Cantidad * (VH.Precio_ventas - VH.Precio_compra)) / (V.Cantidad * VH.Precio_ventas)) * 100 AS "%_Margen"
+FROM Ventas V
+INNER JOIN Vehiculos VH ON V.ID_Vehiculo = VH.ID
+INNER JOIN Vehiculo_Categoria VH_Cat ON VH.ID = VH_Cat.ID_Vehiculo
+INNER JOIN categoria CT ON VH_Cat.ID_Categoria = CT.ID
+INNER JOIN Clientes C ON V.ID_Cliente = C.ID
+INNER JOIN vendedor E ON V.ID_Vendedor = E.ID
+INNER JOIN PAIS P ON c.ID_pais=p.ID_PAIS
+INNER JOIN Modelos_URL M ON VH.ID = M.ID_Vehiculo
+INNER JOIN Fotos_vendedor F ON V.ID_Vendedor = F.ID_vendedor
+GROUP BY V.ID, V.Fecha_Venta, p.NOMBRE_PAIS,V.Cantidad, V.Precio_Venta, V.Total,
+C.Nombre, C.Direccion, C.Telefono,
+E.Nombre,
+VH.Modelo,VH.Precio_compra, VH.Precio_ventas,
+CT.Nombre,
+VH.Stock;
 
+SELECT * FROM VW_Ventas_PorFecha_v_2023_2
 
 
 
