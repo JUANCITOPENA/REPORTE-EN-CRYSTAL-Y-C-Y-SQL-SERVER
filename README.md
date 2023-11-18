@@ -2,6 +2,9 @@
 
 # Proyecto de Desarrollo Empresarial - Informes Analíticos 💼
 
+## 🎥 Vdeo Reporte en Crystal Report con Procedimiento Almacenado en SQL Server, C#
+[![Video 1](PORTADANUEVA.png)]
+
 ¡Bienvenidos al repositorio del Proyecto de Desarrollo Empresarial! En este emocionante proyecto, nos sumergimos en el desafiante mundo del desarrollo empresarial para diseñar un reporte parametrizado que permita realizar análisis de ventas con filtros de fecha de manera eficiente y rápida. 🚀.
 
 ## 🦾Tarea de Diseño de Reporte Parametrizado
