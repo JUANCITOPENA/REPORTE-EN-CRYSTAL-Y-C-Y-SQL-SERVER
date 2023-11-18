@@ -2,8 +2,15 @@
 
 # Proyecto de Desarrollo Empresarial - Informes Analíticos 💼
 
-## 🎥 Vdeo Reporte en Crystal Report con Procedimiento Almacenado en SQL Server, C#
+## 📅 FILTRO EN PANTALLA DE FORMA DINAMICA 
 [![Video 1](PORTADANUEVA.png)]
+
+## 📅 REPORTE GENERADO POR FECHA QUE SE PUEDE EXPORTAR 
+[![Video 1](PORTADANUEVA2.png)]
+
+## 📅 REPORTE GRAFICO QUE SE PUEDE EXPORTAR
+[![Video 1](PORTADANUEVA4.png)]
+
 
 ¡Bienvenidos al repositorio del Proyecto de Desarrollo Empresarial! En este emocionante proyecto, nos sumergimos en el desafiante mundo del desarrollo empresarial para diseñar un reporte parametrizado que permita realizar análisis de ventas con filtros de fecha de manera eficiente y rápida. 🚀.
 
