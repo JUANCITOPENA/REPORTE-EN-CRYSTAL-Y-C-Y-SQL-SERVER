@@ -1,10 +1,11 @@
 # Reporte-en-Crystal-Report-con-Procedimiento-Almacenado-en-SQL-Server.
 
-# Proyecto de Desarrollo Empresarial - Informes Analíticos 💼
-## 📅 REPORTE GRAFICO QUE SE PUEDE EXPORTAR
+## Proyecto de Desarrollo Empresarial - Informes Analíticos 💼
+
+## 📅 DIAGRAMA DE LA BASE DE DATOS Y TABLAS Y RELACIONES:
 [![Video 1](DIAGRAMA_TOYOTA.png)]
 
-## 📅 REPORTE GRAFICO QUE SE PUEDE EXPORTAR
+## 📅 VISTA VENTAS POR FECHA:
 [![Video 1](VISTA_VENTAS_PORFECHAS.png)]
 
 ## 📅 FILTRO EN PANTALLA DE FORMA DINAMICA 
